@@ -1,3 +1,4 @@
 .nextflow.lo*
 work/
 .nextflow/
+salmon_index/
